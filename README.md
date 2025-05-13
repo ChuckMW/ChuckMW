@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Chuck!
 
-<!--
-**ChuckMW/ChuckMW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Industrial Automation Wizard
+I make machines play nice and do what they’re supposed to—most of the time. With expertise in electrical, mechanical, and electromechanical systems, I’ve got a knack for turning chaos into efficiency.
 
-Here are some ideas to get you started:
+## 🤖 PLC Whisperer
+Whether it’s Siemens, Allen-Bradley, Beckhoff, or a rogue Schneider Electric system, I speak their language (even if they don’t always want to listen).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Instrumentation Extraordinaire
+From pressure to flow to "why is this sensor blinking?", I’ve calibrated, fixed, and debugged it all.
+
+## 🏭 Industry Chameleon
+I’ve worked in manufacturing, food and beverage, chemical, water treatment, and more. If it moves, measures, or makes something, odds are I’ve been there—hands-on and results-driven.
+
+## 💡 Innovator & Problem-Solver
+I bridge the gap between OT and IT, delivering solutions that actually work (and don’t need a 100-page manual).
+
+---
+
+### Joke:
+**Why did the oscilloscope break up with the signal generator?**  
+It said, "You're too unstable, and I just can't find the right frequency with you!"
