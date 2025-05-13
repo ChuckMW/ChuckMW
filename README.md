@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chuck!
 
-## 🔧 Industrial Automation Wizard
+## 🔧 Industrial Automation Wrangler: Herding Machines Since Before You Were Born
 I make machines play nice and do what they’re supposed to—most of the time. With expertise in electrical, mechanical, and electromechanical systems, I’ve got a knack for turning chaos into efficiency.
 
 ## 🤖 PLC Whisperer
