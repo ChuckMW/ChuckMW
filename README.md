@@ -16,7 +16,7 @@ I’ve worked in manufacturing, food and beverage, chemical, water treatment, an
 I bridge the gap between OT and IT, delivering solutions that actually work (and don’t need a 100-page manual).
 
 
-🤝 Let’s Tackle Your Next Project
+## 🤝 Let’s Tackle Your Next Project
 Have an industrial project in the works—or a system that’s not working at all? I’m open to collaborating on everything from new automation builds and control upgrades to process tuning and hands-on troubleshooting. Whether you're planning, building, or fixing, I bring real-world experience and practical solutions that get results.
 
 
